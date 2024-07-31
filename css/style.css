@@ -195,11 +195,16 @@ main {
     justify-content: space-between;
 }
 
+.symptoms-text {
+    display: grid;
+}
+
 .symptoms-big-text {
     font-weight: 700;
     font-size: 40px;
     line-height: 50px;
 
+    margin: 0;
     padding-top: 65px;
 }
 
@@ -219,7 +224,10 @@ main {
 .symptoms-button {
     background-color: #7EB252;
     text-decoration: none;
+    color: #fff;
 
     padding: 19px 169px 19px 121px;
     margin-top: 70px;
+    margin-right: 100px;
+    margin-bottom: 64px;
 }
