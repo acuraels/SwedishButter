@@ -2,6 +2,7 @@ body {
     width: 1100px;
     margin: 0 auto;
     font-family: "Montserrat", sans-serif;
+    color: #303030;
 }
 
 .container {
@@ -189,3 +190,36 @@ main {
 }
 
 
+.symptoms-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.symptoms-big-text {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+
+    padding-top: 65px;
+}
+
+.symptoms-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    margin-top: 90px;
+}
+
+.symptoms-list li {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.symptoms-button {
+    background-color: #7EB252;
+    text-decoration: none;
+
+    padding: 19px 169px 19px 121px;
+    margin-top: 70px;
+}
