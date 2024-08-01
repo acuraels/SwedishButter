@@ -233,6 +233,10 @@ main {
     margin-bottom: 64px;
 }
 
+.symptoms-text a:hover {
+    color: #ccf9ae;
+}
+
 .gallery-container {
     margin: 110px 85px;
 }
@@ -303,6 +307,10 @@ main {
     margin-bottom: 15px;
 }
 
+.footer-privacy:hover {
+    color: #b6b3b3;
+}
+
 .footer-privacy:nth-last-child() {
     margin-bottom: 0px;
 }
@@ -339,6 +347,10 @@ main {
     list-style: none;
 
     margin-bottom: 15px;
+}
+
+.footer-link a:hover {
+    color: #A4C58C;
 }
 
 .footer-link:nth-last-child() {
