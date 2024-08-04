@@ -32,10 +32,6 @@ header {
     padding-left: 20px;
 }
 
-.hero-img {
-    width: 1340px;
-}
-
 .nav-list {
     list-style: none;
     display: flex;
@@ -70,7 +66,6 @@ header {
 }
 
 main {
-    margin-top: 15px;
     margin: 0 90px;
 }
 
