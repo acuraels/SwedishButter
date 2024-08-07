@@ -6,6 +6,7 @@ body {
     margin: 0;
     font-family: "Montserrat", sans-serif;
     color: #303030;
+    width: fit-content;
 }
 
 header {
