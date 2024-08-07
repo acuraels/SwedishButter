@@ -228,6 +228,7 @@ main {
 }
 
 .symptoms-big-text {
+    width: 485px;
     font-weight: 700;
     font-size: 40px;
     line-height: 50px;
@@ -253,12 +254,13 @@ main {
 }
 
 .symptoms-button {
+    width: 200px;
     background-color: #7EB252;
     text-decoration: none;
     color: #fff;
 
     padding: 19px 169px 19px 121px;
-    margin-top: 82.5px;
+    margin-top: 30px;
     margin-right: 100px;
     margin-bottom: 64px;
     margin-left: 140px;
